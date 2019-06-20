@@ -1,5 +1,5 @@
 # AWS_SAA_2019
-Guide on how to prepare for AWS SAA-C01
+Guide on how to prepare for AWS SAA-C01(Solutions Architect Associate exam)
 
 
 This guide is about my journey while I was preparing for AWS SAA-C01 certification exam. I am still at initial stage but thinking that I will complete the course and try to finish the exam by the end of Aug, 2019. 
