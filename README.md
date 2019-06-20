@@ -11,11 +11,17 @@ For theory part, I am going through a lot of documents and courses just to be co
 Listing the courses that I took. Courses are of two types:
 
 # A. Free:
-AWS Concepts by Linux Academy(https://www.udemy.com/aws-concepts/learn/practice/1096138?start=start-page#content)
 
-AWS Essentials 2019 by Linux Academy(https://www.udemy.com/linux-academy-aws-essentials-2019/learn/lecture/13741530?start=420#overview)
+a. AWS Concepts by Linux Academy(https://www.udemy.com/aws-concepts/learn/practice/1096138?start=start-page#content)
 
-Learn Amazon Web Services (AWS): The complete introduction   by LevelUpCloud(https://www.udemy.com/learn-amazon-web-services-the-complete-introduction/)
+b. AWS Essentials 2019 by Linux Academy(https://www.udemy.com/linux-academy-aws-essentials-2019/learn/lecture/13741530?start=420#overview)
+
+c. Learn Amazon Web Services (AWS): The complete introduction   by LevelUpCloud(https://www.udemy.com/learn-amazon-web-services-the-complete-introduction/)
+
+d. http://jayendrapatil.com/aws-solutions-architect-associate-feb-2018-exam-learning-path/
+
+Jayendra's blog is full of quality information. Do check this out and study the blog. 
+
 
 You can also go through some other free courses to get more idea before buying any courses
 
