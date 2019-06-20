@@ -22,6 +22,7 @@ d. http://jayendrapatil.com/aws-solutions-architect-associate-feb-2018-exam-lear
 
 Jayendra's blog is full of quality information. Do check this out and study the blog. 
 
+e. Mind maps of AWS services -- https://github.com/gitvani/aws-mindmap 
 
 You can also go through some other free courses to get more idea before buying any courses
 
