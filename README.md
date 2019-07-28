@@ -52,6 +52,46 @@ Best option is to go through FAQ + whitepapers + test while you are already well
   braincert: https://www.braincert.com/bc/our-platform
   
   
+  If you ask me to divide the whole concepts into groups, below are my groups:
+  
+  1. Netowrking/Infrastructure 
+  2. Storage
+  3. Database
+  4. Security
+  5. Access management
+  6. Compute
+  7. Others
+  
+  You need little knowledge but more clarity to master these concepts. Sit and please read all the details I provide with the help of efforts of many others whose contents I have read and clear the doubts of my own.
+  
+#  1. Networking: 
+  
+  This section has important services that Amazon is giving. Like Availability zones, aws regions, Edge locations, cloud delivery network. VPC is another part of it.
+  Under VPC,  there has - private subnets, public subnets, Network Access Control Lists(NACLs), Route Table, Internet Gateway.
+  
+  Also Route 53, Auto scaling, and Load balancing - are very important topic to cover. 
+  
+  # Note: High availability and fault tolerance is mainly acgieved with the help of multiple availability zones with VPC. 
+  
+#  2. Storage: 
+    Its about S3 mainly? No no. Its about Buckets and objects that you put in it. then you have storage classes. Mainly it is used based on the frequency level. 
+  
+  Object has a lifecycle. And permissions and versioning. You need to know both to master S3.
+  
+#  3. Database: 
+    Has two categories: Relational(SQL or RDS) and Non relational(No-SQL or DynamoDB). Here understand provisioning an RDS instance and SSH tunneling.
+  
+#  4. Security: This is big and needs to be covered in layer by layer.
+  
+#  5. Access management: 
+  Well verse yourself with IAM tool.
+  
+#  6. Compute: 
+  EC2, instance types, EBS volumes, security groups. IP addressing, EC2 provissioning.
+  
+#  7. Others: 
+  Multiple tools such as CloudWatch, SNS, SQS, SWS, CloudTrail etc.
+  
   
 If you like the content, hit Star.   
 
